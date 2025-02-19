@@ -100,7 +100,7 @@ if not st.session_state.submitted_query:
         col2a.header("💻 BenjaminCodeGPT") 
 
         # GPT - Descriptive introduction for user 
-        col2.write("Salut ! Je suis BenjaminCodeGPT, une IA entraînée sur les vidéos de [ma chaîne YouTube](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw), sur laquelle je parle de mon amour pour **VueJS**, de mon SaaS [MeetSponsor](https://meetsponsors.com/), et de bien plus encore. Posez-moi vos questions, et je ferai de mon mieux pour y répondre en vous fournissant les liens de vidéos pertinentes pour approfondir le sujet.")
+        col2.write("Bonjour ! Je suis BenjaminCodeGPT, une IA entraînée sur les superbes vidéos de [ma chaîne YouTube](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw), sur laquelle je parle de mon amour pour **VueJS**, de mon SaaS [MeetSponsor](https://meetsponsors.com/), et bien plus encore. Posez-moi vos questions, et je ferai de mon mieux pour y répondre en vous fournissant les liens de vidéos pertinentes pour approfondir le sujet.")
 
 
 # Sidebar for selecting the model (disabled by default)
