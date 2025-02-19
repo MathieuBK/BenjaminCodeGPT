@@ -1,6 +1,6 @@
 # BenjaminCodeGPT
 
-BenjaminCodeGPT is a chatbot that simulates a conversation with [**Benjamin Code**](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw), a French YouTuber and indie developer. It provides **practical advice** on **web development, VueJS, and tech entrepreneurship**, drawing from Benjamin's insights shared on his YouTube channel and SaaS project, [MeetSponsor](https://meetsponsors.com/).
+BenjaminCodeGPT is a chatbot that simulates a conversation with [**Benjamin Code**](https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw), a French YouTuber and indie developer. It provides **practical advice** on **web development, VueJS, and tech entrepreneurship**, drawing from Benjamin's insights shared on his YouTube channel and SaaS project, [MeetSponsors](https://meetsponsors.com/).
 
 The chatbot leverages semantic search and AI-powered video transcriptions to deliver context-aware responses, helping users navigate topics ranging from VueJS best practices to building and scaling a tech business.
 
