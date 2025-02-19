@@ -288,5 +288,5 @@ user_prompt = st.text_input(
 )
 
 # COPYRIGHT
-st.markdown("<div style='text-align: right; color: #83858C; font-size:14px;'>&copy; 2024 Copyright <a href='https://many.bio/mathieubk'>Mathieu Bekkaye</a> - All rights reserved.</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: right; color: #83858C; font-size:14px;'>&copy; 2025 Copyright <a href='https://many.bio/mathieubk'>Mathieu Bekkaye</a> - All rights reserved.</div>", unsafe_allow_html=True)
 
