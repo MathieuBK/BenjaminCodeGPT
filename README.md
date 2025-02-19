@@ -8,7 +8,7 @@ The chatbot leverages semantic search and AI-powered video transcriptions to del
 
 - Engage in a conversation with a chatbot that emulates BenjaminCode's communication style.
 - Receive focused, practical, and direct web development and entrepreneurship advice.
-- Access relevant snippets from transcriptions of BenjaminCode's YouTube videos to support the chatbot's responses.
+- Access relevant snippets from transcriptions of BenjaminCode's YouTube videos & VueJS documentation to support the chatbot's responses.
 - Get assistance with **VueJS** and **NuxtJS**-related queries, with direct links to relevant documentation.
 - Utilize semantic search to find relevant content from video transcripts.
 
