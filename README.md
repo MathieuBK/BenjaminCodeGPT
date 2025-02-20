@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact Mathieu Bekkaye *via* [this page](https://many.bio/mathieubk).
+If you have any questions or need assistance, feel free to contact **Mathieu Bekkaye** *via* [this page](https://many.bio/mathieubk).
 
 
 ## Acknowledgments
